@@ -1,2 +1,2 @@
 # DSC-DataScience-Track-
-this is the repository of the Data Science Track made be DSC mentors to all who wants to Learn 
+this is the repository of the Data Science Track made by DSC mentors to all who wants to Learn 
